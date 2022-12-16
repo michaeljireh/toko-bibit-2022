@@ -1,0 +1,1 @@
+start cmd.exe /k "php artisan migrate:fresh --seed"
